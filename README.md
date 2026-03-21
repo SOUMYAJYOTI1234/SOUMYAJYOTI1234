@@ -9,11 +9,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:somchatterjej@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#60130f0d030801141405120a050a20070d01090c4e030f0d">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square"/>
 </p>
 
 ---
@@ -105,5 +103,4 @@ Model registries · Feature stores · MLflow experiment tracking · Deep learnin
 ---
 
 <p align="center">
-  <i>"In God we trust, all others must bring data." — W. Edwards Deming</i>
-</p>
+  <i>"In God we trust, all others mus
