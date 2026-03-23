@@ -102,5 +102,3 @@ Model registries · Feature stores · MLflow experiment tracking · Deep learnin
 
 ---
 
-<p align="center">
-  <i>"In God we trust, all others mus
